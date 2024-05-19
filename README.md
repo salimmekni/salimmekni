@@ -1,6 +1,6 @@
 # Bienvenue ! 👋
 
-Je suis Salim Mekni, un passionné de data toujours en quête de nouveaux défis passionnants et d'apprentissage continu.
+Je suis Salim Mekni, toujours en quête de nouveaux défis passionnants et d'apprentissage continu.
 
 ##  Compétences
 
